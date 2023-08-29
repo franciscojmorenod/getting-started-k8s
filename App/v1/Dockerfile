@@ -1,6 +1,6 @@
 FROM node:current-slim
 
-LABEL MAINTAINER=nigelpoulton@hotmail.com
+LABEL MAINTAINER=francisco.j.moreno.d@gmail.com
 
 # Copy source code to /src in container
 COPY . /src
