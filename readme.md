@@ -4,7 +4,7 @@ Node.js web app for use in Pluralsight [Getting Started with Kubernetes](https:/
 
 Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
 
-## App
+## App1
 
 The app, dependencies, and Dockerfile are in the `/App` folder.
 
