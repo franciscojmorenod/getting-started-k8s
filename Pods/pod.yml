@@ -2,12 +2,12 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: hello-pod
+  name: fm-podtest5
   labels:
     app: web
 spec:
   containers:
     - name: web-ctr
-      image: fjmoreno64/fmdockerhub:myimagetopush
+      image: fjmoreno64/fmtest5:tag5
       ports:
         - containerPort: 8080
